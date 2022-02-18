@@ -1,4 +1,1 @@
->>creating a new nc vuln tools 
->>working on netcat
->>creating a interface 
-))))))work in progresse
+creating a new nc vuln tool now working on netcat network sys
